@@ -1,4 +1,6 @@
-# ImageEditingApp
+# ImageEditingApp University Project
+
+All image editing functions were made from scratch,<br />
 
 Three things you can do<br />
   1- Splines<br />
